@@ -18,3 +18,7 @@ yarn start
 ```
 
 Finally, scan QR code through expogo app.
+
+
+Also you will need a file named credentials which cant be uploaded on github so email me if interested
+michalis_apoel_@hotmail.com
